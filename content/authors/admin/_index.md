@@ -6,7 +6,7 @@ title: Bella Ren
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: doctoral student
 
 # Organizations/Affiliations
 organizations:
